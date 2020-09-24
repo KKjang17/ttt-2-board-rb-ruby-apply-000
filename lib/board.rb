@@ -2,4 +2,4 @@
 
 board = []
 
-do
+9.times do 
